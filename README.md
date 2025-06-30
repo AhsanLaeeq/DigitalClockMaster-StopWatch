@@ -1,12 +1,113 @@
-# React + Vite
+Absolutely! Here's your updated and polished `README.md` — with the **live preview link at the top**, for quick access.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+### ✅ Final `README.md` (Copy & Paste):
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```markdown
+# ⏰ DigitalClockMaster-StopWatch
 
-## Expanding the ESLint configuration
+> 🔗 **Live Preview**: [https://ahsanlaeeq.github.io/DigitalClockMaster-StopWatch/](https://ahsanlaeeq.github.io/DigitalClockMaster-StopWatch/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A beautifully designed digital clock and stopwatch app built using **Vite + React**, with live time display, start/pause stopwatch, and a clean modern UI — deployed on **GitHub Pages**.
+
+---
+
+## 🚀 Features
+
+- 🕒 **Live Digital Clock** — updates every second in real-time.
+- ⏱️ **Stopwatch** — start, pause, and reset functionality.
+- 🎯 Simple, responsive, and intuitive UI.
+- ⚛️ Built with modern React using Hooks (`useState`, `useEffect`).
+- ⚡ Powered by **Vite** and deployed using **gh-pages**.
+
+---
+
+## 🔧 Tech Stack
+
+- **React**
+- **Vite**
+- **JavaScript**
+- **HTML & CSS**
+- **GitHub Pages**
+
+---
+
+## 📁 Project Structure
+
+```
+
+src/
+├── Components/
+│   ├── Header/
+│   ├── Footer/
+│   ├── Hero/
+│   └── Layout/
+├── App.jsx
+├── main.jsx
+public/
+vite.config.js
+
+````
+
+---
+
+## 🛠️ How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/AhsanLaeeq/DigitalClockMaster-StopWatch.git
+
+# Go to project folder
+cd DigitalClockMaster-StopWatch
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+````
+
+---
+
+## 🚀 Deployment Commands
+
+```bash
+# Build for production
+npm run build
+
+# Deploy to GitHub Pages
+npm run deploy
+```
+
+### Make sure your config files are correct:
+
+**vite.config.js**:
+
+```js
+base: "/DigitalClockMaster-StopWatch/"
+```
+
+**package.json**:
+
+```json
+"homepage": "https://ahsanlaeeq.github.io/DigitalClockMaster-StopWatch"
+```
+
+---
+
+## 🙌 Acknowledgements
+
+Made with ❤️ using [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+```
+
+---
+
+
