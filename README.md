@@ -1,8 +1,3 @@
-Absolutely! Here's your updated and polished `README.md` — with the **live preview link at the top**, for quick access.
-
----
-
-### ✅ Final `README.md` (Copy & Paste):
 
 ```markdown
 # ⏰ DigitalClockMaster-StopWatch
