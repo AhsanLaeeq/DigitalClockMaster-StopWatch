@@ -100,9 +100,3 @@ Made with ❤️ using [React](https://reactjs.org/) + [Vite](https://vitejs.dev
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-
