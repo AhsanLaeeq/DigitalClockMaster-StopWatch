@@ -75,7 +75,7 @@ npm run build
 npm run deploy
 ```
 
-### Make sure your config files are correct:
+### ✅ Make sure your config files are correct:
 
 **vite.config.js**:
 
@@ -97,6 +97,20 @@ Made with ❤️ using [React](https://reactjs.org/) + [Vite](https://vitejs.dev
 
 ---
 
+## 💼 Connect With Me
+
+* [LinkedIn → Ahsan Laeeq](https://www.linkedin.com/in/ahsan-laeeq-22a085348/)
+
+---
+
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+
+Let me know if you’d like me to:
+- Add a GitHub profile badge  
+- Include a project screenshot or demo GIF  
+- Format it for a GitHub portfolio style  
+I can customize it more!
+```
