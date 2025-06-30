@@ -1,0 +1,44 @@
+.quiz-header {
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: #ffffff;
+  text-align: center;
+  padding: 3rem 1rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  position: relative;
+  overflow: hidden;
+  animation: fadeInTop 1s ease-in-out;
+}
+
+/* Decorative gradient bar */
+.quiz-header::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
+  height: 4px;
+  background: linear-gradient(90deg, #ff416c, #ff4b2b);
+  border-radius: 2px;
+  animation: slideBar 3s ease-in-out infinite alternate;
+}
+
+.quiz-header h1 {
+  font-size: 3rem;
+  font-weight: 900;
+  margin: 0;
+  background: linear-gradient(45deg, #ff6ec4, #7873f5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 10px rgba(255, 110, 196, 0.5);
+  animation: pulseGlow 2s infinite alternate;
+}
+
+.quiz-header p {
+  font-size: 1.2rem;
+  margin-top: 0.7rem;
+  opacity: 0.95;
+  color: #eee;
+  font-style: italic;
+  animation: fadeInUp 1.5s ease;
+}

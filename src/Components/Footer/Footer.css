@@ -1,0 +1,24 @@
+.quiz-footer {
+  background: #111;
+  color: #aaa;
+  text-align: center;
+  padding: 1.5rem 1rem;
+  font-size: 0.95rem;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 -2px 15px rgba(255, 255, 255, 0.05);
+  animation: fadeInBottom 1s ease-in-out;
+}
+
+.quiz-footer p {
+  margin: 0.5rem 0;
+  transition: color 0.3s;
+}
+
+.quiz-footer p:last-child {
+  color: #ff6b6b;
+  font-weight: bold;
+}
+
+.quiz-footer p:hover {
+  color: white;
+}
